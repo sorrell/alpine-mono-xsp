@@ -1,2 +1,3 @@
-# docker-alpine-mono-xsp
-Alpine with Mono and XSP
+# Alpine with Mono and XSP
+
+This is a Docker container based on Alpine with Mono and XSP installed.
